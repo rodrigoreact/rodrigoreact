@@ -1,8 +1,8 @@
 ### Summary in English
 ### Hello, I'm Rodrigo Fernando Riveros Aránguiz 😎, from Chile.
 
-### I'm a teacher of mathematics and programmer. I love Ruby, Java, PHP, JavaScript, SQL, CSS, Flexbox, Github, UX/UI Design, web-development and meditation. I 
-### launched docentedigital.org to teach code to teachers, entrepreneurs and creative people around the world 🌍.
+### I'm a teacher of mathematics and programmer. I love Ruby, Java, PHP, JavaScript, SQL, CSS, Flexbox, Github, UX/UI Design, web-development and meditation. 
+### I launched docentedigital.org to teach code to teachers, entrepreneurs and creative people around the world 🌍.
 ###  Ahora en chilensis.
 
 ### -  Soy chileno y vivo en el norte grande de mi país.
