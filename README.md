@@ -1,6 +1,6 @@
 ### Summary in English
 ### Hello, I'm Rodrigo Fernando Riveros Aránguiz 😎, from Chile.
-### Rodrigo Fernando
+
 ### I'm a teacher of mathematics and programmer. I love Ruby, Java, PHP, JavaScript, SQL, CSS, Flexbox, Github, UX/UI Design, web-development and meditation. I  ### launched docentedigital.org to teach code to teachers, entrepreneurs and creative people around the world 🌍.
 ###  Ahora en chilensis.
 
@@ -16,8 +16,7 @@
 ### - Cómo ya no existía esa carrera entré a un programa para convalidar el título que ahora era de 5 años y un grado de licenciado. Se consiguió el 2011.
 ### - Luego, quise entrar a un programa para licenciados en docencia enseñanza media, en la especialidad de matemática, en la Andres Bello de Concepción, el 2012.
 ### - 🤔 Mis experencias previas son amplias en el mundo de la programación dado de conocí el primer computador el año 1984, con procesador 8086 y 8088, con discs ###   de - 5 pulgadas un cuarto y aunque estudiando otras cosas siempre vinculado al avance de la computación y la informática. Tuve experiencias en GW-BASIC, Q-  ###   BASIC, C; - - Fortran, Pascal, C++, visual Basic 3,4,5 y 6. Entorno de texto para DOS, por comandos, y compilar programas en Clipper summer 87, 5.0, 5.01,   
-###   5.02, 5,2 y la - 
-### - versión - visual que no tuvo éxito. Algunas experiencias en FoxPro equivalente a Clipper 5.2. Tambien, experiencias con todos la ofimatica en DOS y linux. ###  Tuve contacto con Quattro Pro, DBAse III, DBAse III Plus y DBAse IV, con formato dbf.
+###   5.02, 5,2 y la versión - visual que no tuvo éxito. Algunas experiencias en FoxPro equivalente a Clipper 5.2. Tambien, experiencias con todos la ofimatica en ###   DOS y linux. Tuve contacto con Quattro Pro, DBAse III, DBAse III Plus y DBAse IV, con formato dbf.
 ### - Desarrollo de macros en Visual Basic for applications para Excel.
 ### - 💬 Actualmente con varios bootcamp en el cuerpo, uno con Lewagon, Emprendimiento con tecnologias Web, otro con energiza.sustantiva JAVA, otro FullStack - 
 ### - JavaScript, con Academlo de México, y finalizando con Ruby on Rails en InforCap, Chile.
