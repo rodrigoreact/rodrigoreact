@@ -22,10 +22,13 @@
 ### - Desarrollo de macros en Visual Basic for applications para Excel.
 ### - 💬 Actualmente con varios bootcamp en el cuerpo, uno con Lewagon, Emprendimiento con tecnologias Web, otro con energiza-sustantiva en JAVA.
 ###   FullStack JavaScript, en Academlo de México, y finalizando con Ruby on Rails en InforCap, Chile.
-### - 📫 Si tienen algún problema en algún área de mi expertise, me pueden ubicar por celular o teléfono de red fija.
-
+###
+###
 ### - ⚡ Hobbies: Me gusta el Tenis de Mesa, la natación, el buceo, la pesca de truchas o salmones, la meditación, muchas cosas y también desarrollar aplicaciones 
-###   web y seguir mejorando las skills.
+###
+### - 📫 Si tienen algún problema en algún área de mi expertise, me pueden ubicar por celular o teléfono de red fija.
 ### - Me pueden ubicar en la url: https://docentedigita.org, toda la información necesaria está en ese sitio web.
+###
+###   Nunca estar quieto y a seguir mejorando las skills. Nos vemos.
 
 
