@@ -11,7 +11,7 @@
 ### - Empecé con Biología Pesquera, pero hice traslado a Osorno y egresé de Ing. Ejec en Acuicultura.
 ### - Por temas de deudas con la U, no tenía evidencia de haber estudiado, así que volví a la U, en esta ocasión a estudiar Ing. E. Informática y Multimedios.
 ###   Para poder obtener el título de informático tuve que arreglar la deuda antigua con la U. Se pagó y logré mi primer título.
-### - Pagada la deuda con acuicultura, pude elevar solicitud para formalizar y cerrar ese ciclo.
+### - Pagada la deuda, pude elevar solicitud para formalizar y cerrar el ciclo formativo de acuicultura.
 ### - Hice la práctica, la tesis y finalmente obtuve el título de Ing E. en Acuicultura. 
 ### - Cómo ya no existía esa carrera entré a un programa para convalidar el título que ahora era de 5 años y un grado de licenciado. Se consiguió el 2011.
 ### - Luego, quise entrar a un programa para licenciados en docencia enseñanza media, en la especialidad de matemática, en la Andres Bello de Concepción, el 2012.
