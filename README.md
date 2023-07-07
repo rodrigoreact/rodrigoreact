@@ -16,7 +16,7 @@
 ### - Hice la práctica, la tesis y finalmente obtuve el título de Ing E. en Acuicultura. 
 ### - Cómo ya no existía esa carrera entré a un programa para convalidar el título que ahora era de 5 años y un grado de licenciado. Se consiguió el 2011.
 ### - Luego, quise entrar a un programa para licenciados en docencia enseñanza media, en la especialidad de matemática, en la Andrés Bello de Concepción, el 2012.
-### - 🤔 Mis experencias previas son amplias en el mundo de la programación dado que conocí el primer computador el año 1984, con procesador 8086 y 8088, con
+### - 🤔 Mis experencias previas se remontan a los 80 en el mundo de la programación, dado que conocí el primer computador el año 1984, con procesador 8086 y 8088, con
 ###   discos de 5 1/4 pulgadas un cuarto y aunque estudiando otras cosas siempre vinculado al avance de la computación y la informática. Tuve experiencias en GW- ###   BASIC, Q- BASIC, C; Fortran, Pascal, C++, visual Basic 3,4,5 y 6. Entorno de texto para DOS, por comandos, y compilar programas en Clipper summer 87, 5.0, ###   5.01. 5.02, 5,2 y la versión - visual que no tuvo éxito. Algunas experiencias en FoxPro equivalente a Clipper 5.2. También, experiencias con todos la 
 ###  ofimática en DOS y linux. Tuve contacto con Quattro Pro, DBAse III, DBAse III Plus y DBAse IV, con formato dbf.
 ### - Desarrollo de macros en Visual Basic for applications para Excel.
