@@ -24,7 +24,7 @@
 ###   FullStack JavaScript, en Academlo de México, y finalizando con Ruby on Rails en InforCap, Chile.
 ###
 ###
-### - ⚡ Hobbies: Me gusta el Tenis de Mesa, la natación, el buceo, la pesca de truchas o salmones, la meditación, muchas cosas y también desarrollar aplicaciones 
+### - ⚡ Hobbies: Me gusta el Tenis de Mesa, la natación, el buceo, la pesca de truchas o salmones, la meditación, muchas cosas y también desarrollar aplicaciones. 
 ###
 ### - 📫 Si tienen algún problema en algún área de mi expertise, me pueden ubicar por celular o teléfono de red fija.
 ### - Url: https://docentedigital.org, toda la información necesaria está en ese sitio web.
