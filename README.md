@@ -22,12 +22,13 @@
 ###   Entorno de texto para DOS, por comandos, y compilar programas en Clipper summer 87-5.0-5.01-5.02-5,2 y la versión  clipper visual que se descontinuó. 
 ###   Algunas experiencias en FoxPro para DOS, equivalente a Clipper 5.2. 
 ###   También, experiencias con toda la ofimática en DOS y linux. Tuve contacto con Quattro Pro, DBAse III, DBAse III Plus y DBase IV, con formato dbf.
-### - Desarrollo de macros en Visual Basic for applications para Excel.
+### - Desarrollo avanzado en macros en Visual Basic for applications para Excel y varias aplicaciones con interfaces gráficas.
 ### - Actualmente con varios bootcamp en el cuerpo:
-###   Emprendimiento con tecnologías Web, Lewagon y Universidad Santo Tomás, Educación continua.2021.
-###   FullStack Java, con Energiza-Sustantiva. 2022.
+###
+### - Emprendimiento con Tecnologías Web, centro Lewagon y Universidad Santo Tomás, Educación continua.2021.
+### - FullStack Java, con Energiza-Sustantiva. 2022.
 ### - FullStack JavaScript, Academlo, México, 2022-2023.
-### - Desarrollo Ruby on Rails para emprendimientos de tipo Startupcon Ruby on Rails en InforCap, Chile.2023.
+### - Desarrollo Ruby on Rails para emprendimientos de tipo Startup en InforCap, Chile.2023.
 ###
 ###
 ### - ⚡ Hobbies: Me gusta el Tenis de Mesa, la natación, el buceo, la pesca de truchas o salmones, la meditación, muchas cosas y desarrollar aplicaciones. 
@@ -36,7 +37,7 @@
 ### - Url: https://docentedigital.org, toda la información necesaria está en ese sitio web.
 ### - Tengo una segunda cuenta en GITHUB: https://github.com/RodrigoFernandoRiveros/, que es más antigua.
 ###
-###   Nunca estar quieto, a seguir mejorando las skills. Nos vemos.
+###   Siempre mejorando, siempre avanzando. Nos vemos.
 
 
 
