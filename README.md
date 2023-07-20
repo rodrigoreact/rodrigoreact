@@ -23,8 +23,11 @@
 ###   Algunas experiencias en FoxPro para DOS, equivalente a Clipper 5.2. 
 ###   También, experiencias con toda la ofimática en DOS y linux. Tuve contacto con Quattro Pro, DBAse III, DBAse III Plus y DBase IV, con formato dbf.
 ### - Desarrollo de macros en Visual Basic for applications para Excel.
-### - Actualmente con varios bootcamp en el cuerpo, uno con Lewagon, Emprendimiento con tecnologías Web, otro con energiza-sustantiva en JAVA.
-### - FullStack JavaScript, en Academlo de México, y finalizando con Ruby on Rails en InforCap, Chile.
+### - Actualmente con varios bootcamp en el cuerpo:
+###   Emprendimiento con tecnologías Web, Lewagon y Universidad Santo Tomás, Educación continua.2021.
+###   FullStack Java, con Energiza-Sustantiva. 2022.
+### - FullStack JavaScript, Academlo, México, 2022-2023.
+### - Desarrollo Ruby on Rails para emprendimientos de tipo Startupcon Ruby on Rails en InforCap, Chile.2023.
 ###
 ###
 ### - ⚡ Hobbies: Me gusta el Tenis de Mesa, la natación, el buceo, la pesca de truchas o salmones, la meditación, muchas cosas y desarrollar aplicaciones. 
