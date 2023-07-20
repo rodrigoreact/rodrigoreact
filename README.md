@@ -28,8 +28,9 @@
 ###
 ### - 📫 Si tienen algún problema en algún área de mi expertise, me pueden ubicar por celular o teléfono de red fija.
 ### - Url: https://docentedigital.org, toda la información necesaria está en ese sitio web.
-###
-###   Nunca estar quieto y a seguir mejorando las skills. Nos vemos y a seguir aprendiendo.
 ###   Tengo una segunda cuenta en GITHUB: https://github.com/RodrigoFernandoRiveros/, que es más antigua.
+###
+###   Nunca estar quieto, a seguir mejorando las skills. Nos vemos.
+
 
 
