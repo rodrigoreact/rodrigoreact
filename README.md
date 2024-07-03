@@ -3,7 +3,7 @@
 ### -  Soy chileno y vivo en el norte grande de mi país.
 
 ### - 🌱 Me dedico a la enseñanza de matemática, de la informática. Desarrollo sitios o sistemas web como freelancer.
-### - 👯 Mi formación es universitaria, cursé varias carreras. 
+### - 👯 Mi formación es universitaria. 
 ### - Empecé con Biología Pesquera, pero hice traslado a Osorno y egresé de Ing. Ejec en Acuicultura.
 ### - Posteriormente ingresé a estudiar Informática y Multimedios.
 ###  🤔 Mis experiencias previas se remontan a los 80 en el mundo de la programación, dado que conocí el primer computador el año 1984, con procesador 8086 y 8088, con
